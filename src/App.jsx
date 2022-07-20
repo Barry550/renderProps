@@ -6,8 +6,9 @@ import AddHits from './component/AddHits';
 function App() {
   
   return (
-    <div className="App git">
+    <div className="App">
     <h1 style={{fontSize: '40px'}}>Vegeta Vs Goku</h1>
+    <h3>les guerier de l'espace</h3>
     <hr/>
     <div className="container">
         <AddHits render={(state, addHits, name)=> (
