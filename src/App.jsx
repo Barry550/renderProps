@@ -2,7 +2,7 @@ import './App.css';
 import Vegeta from './component/Vegeta';
 import Goku from './component/Goku';
 import AddHits from './component/AddHits';
-
+ 
 function App() {
   
   return (
