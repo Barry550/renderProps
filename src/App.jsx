@@ -6,7 +6,7 @@ import AddHits from './component/AddHits';
 function App() {
   
   return (
-    <div className="App">
+    <div className="App git">
     <h1 style={{fontSize: '40px'}}>Vegeta Vs Goku</h1>
     <hr/>
     <div className="container">
