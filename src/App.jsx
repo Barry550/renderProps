@@ -13,11 +13,7 @@ function App() {
     <h3>medaille de bronze</h3>
     <h3>medaille de bronze</h3>
     <h3>medaille de bronze</h3>
-<<<<<<< HEAD
-    <h3>medaille d'or</h3>
-=======
-    <h3>medaille d'argent</h3>
->>>>>>> 0fddc93fb8dbd3109e282e2322fd6d4d934680aa
+    
     <hr/>
     <div className="container">
         <AddHits render={(state, addHits, name)=> (
