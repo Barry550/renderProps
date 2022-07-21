@@ -10,7 +10,13 @@ function App() {
     <h1 style={{fontSize: '40px'}}>Vegeta Vs Goku vs Broly</h1>
     <h3>medaille de bronze</h3>
     <h3>medaille d'argent</h3>
+<<<<<<< HEAD
     <hr/>
+=======
+
+
+    <hr/> 
+>>>>>>> c02835680339892d1af24d95e9342c77ab90a81d
     <div className="container">
         <AddHits render={(state, addHits, name)=> (
           <>
