@@ -11,6 +11,11 @@ function App() {
     <h3>medaille de bronze</h3>
     <h3>medaille d'argent</h3>
 
+    <div>
+      <h1>Command de git</h1>
+      <p>push</p>
+    </div>
+
 
     <hr/> 
     <div className="container">
