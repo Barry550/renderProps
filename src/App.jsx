@@ -10,7 +10,7 @@ function App() {
     <h1 style={{fontSize: '40px'}}>Vegeta Vs Goku vs Broly</h1>
     <h3>medaille de bronze</h3>
     <h3>medaille d'argent</h3>
-    <h3>Medaille d'or argent</h3>
+
 
     <hr/> 
     <div className="container">
