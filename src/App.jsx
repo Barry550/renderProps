@@ -15,6 +15,7 @@ function App() {
       <h1>Command de git</h1>
       <p>push</p>
       <p>pull</p>
+      <p>log</p>
     </div>
 
 
